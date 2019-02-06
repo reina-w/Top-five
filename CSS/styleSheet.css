@@ -1,0 +1,65 @@
+body{
+	background: #f9eb4d;
+	color:#5207af;
+	font-family: 'Lobster', cursive;
+}
+
+h1{
+	background: #53c9f4;
+	color: #f2379e;
+	font-family: 'Pacifico', cursive;
+	font-size: 70px;
+	text-align: center;
+	margin: 0px;
+}
+
+/* hash tags for id*/
+#stayPut{
+	position:fixed;
+	width: 100%;
+}
+
+/*dots for classes*/
+.text{
+	background-color: rgba(255,255,255,0.7);
+	margin-top: 0px;
+	border-radius: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 30px;
+}
+
+.pics{
+	text-align: center;
+}
+
+p{
+	margin-bottom: 60px;
+	text-align: center;
+	font-size: 50px;
+}
+
+ul{
+	list-style-image: url('../images/crown.gif');
+	font-size: 30px;
+	margin-left: 40%;
+}
+
+li{
+	margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
